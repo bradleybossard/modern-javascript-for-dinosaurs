@@ -19,5 +19,9 @@
   "homepage": "https://github.com/bradleybossard/modern-javascript-for-dinosaurs#readme",
   "dependencies": {
     "moment": "2.23.0"
+  },
+  "devDependencies": {
+    "webpack": "4.28.3",
+    "webpack-cli": "3.1.2"
   }
 }
