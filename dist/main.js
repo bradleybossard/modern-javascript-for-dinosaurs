@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("// index.js\nvar moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\");\n\nconsole.log(\"Hello from JavaScript!\");\nconsole.log(moment().startOf('day').fromNow());\nvar name = \"Bob\",\n    time = \"today\";\nconsole.log(\"Hello \".concat(name, \", how are you \").concat(time, \"?\"));\n\n//# sourceURL=webpack:///./index.js?");
+eval("// index.js\nvar moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\");\n\nconsole.log(\"Hello from JavaScript!\");\nconsole.log(moment().startOf('day').fromNow());\nvar name = \"Rob\",\n    time = \"today\";\nconsole.log(\"Hello \".concat(name, \", how are you \").concat(time, \"?\"));\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ }),
 
