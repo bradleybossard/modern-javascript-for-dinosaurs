@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/bradleybossard/modern-javascript-for-dinosaurs#readme",
   "dependencies": {
-    "moment": "2.23.0"
+    "moment": "2.29.4"
   },
   "devDependencies": {
     "@babel/core": "7.2.2",
